@@ -8,7 +8,8 @@ Software Testing
 * UX On the Way
 * UX Cake
 * Brave UX with Brendan Jarvis 
-* Nie Tylko Design
+* Nie Tylko Design <br>
+
 🖌 Programming
 * Przeprogramowani
 * Developer Wannabe
@@ -16,6 +17,7 @@ Software Testing
 * JS Party
 * Syntax
 * Talk Python To Me <br>
+
 🔎 Software Testing
 * Testowanie Oprogramowania Podcast
 * Learn QA Podcast

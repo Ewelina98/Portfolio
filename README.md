@@ -9,15 +9,13 @@ Software Testing
 * UX Cake
 * Brave UX with Brendan Jarvis 
 * Nie Tylko Design
-
 🖌 Programming
 * Przeprogramowani
 * Developer Wannabe
 * Fronted First
 * JS Party
 * Syntax
-* Talk Python To Me
-
+* Talk Python To Me <br>
 🔎 Software Testing
 * Testowanie Oprogramowania Podcast
 * Learn QA Podcast

@@ -3,7 +3,25 @@ Software Testing
 <h2> Projekty </h2>
 
 ## Podcast
-*UX po Godzinach
-*tbgrf
-*jyhtrgfe
+📖 UX
+* UX po Godzinach
+* UX On the Way
+* UX Cake
+* Brave UX with Brendan Jarvis 
+* Nie Tylko Design
+* 
+🖌 Programming
+* Przeprogramowani
+* Developer Wannabe
+* Fronted First
+* JS Party
+* Syntax
+* Talk Python To Me
+🔎 Software Testing
+* Testowanie Oprogramowania Podcast
+* Learn QA Podcast
+* Testing Parrot
+* Zawód_Tester
+* Software Testing Podcast
+
 
